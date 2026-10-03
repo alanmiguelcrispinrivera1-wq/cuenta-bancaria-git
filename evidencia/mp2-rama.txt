@@ -1,0 +1,9 @@
+Estado de cuenta de Alan Miguel Crispin Rivera
+  DEPOSITO      2000.00
+  RETIRO         100.00
+  RETIRO         100.00
+  RETIRO         100.00
+  RETIRO         100.00
+  COMISION        10.00
+  Saldo:     1590.00
+  Retiros:   4

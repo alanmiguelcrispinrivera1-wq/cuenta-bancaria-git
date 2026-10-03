@@ -1,0 +1,22 @@
+title:	Muestra el número de retiros en el estado de cuenta
+state:	MERGED
+author:	alanmiguelcrispinrivera1-wq
+labels:	
+assignees:	
+reviewers:	
+projects:	
+milestone:	
+number:	1
+url:	https://github.com/alanmiguelcrispinrivera1-wq/cuenta-bancaria-git/pull/1
+additions:	2
+deletions:	0
+auto-merge:	disabled
+--
+## Qué cambia
+El estado de cuenta muestra cuántos retiros se hicieron.
+
+## Por qué
+El cliente quiere saber cuántos retiros lleva, porque desde el 4.º se cobra comisión.
+
+## Cómo lo probé
+`./correr.sh` termina con `Retiros:   4`.
