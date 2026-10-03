@@ -1,0 +1,7 @@
+*   4be4e2e (HEAD -> main, origin/main) Merge pull request #1 from alanmiguelcrispinrivera1-wq/feature/retiros
+|\  
+| * 128c487 Dice cuántos retiros fueron gratis
+| * 20b5f62 Muestra el número de retiros
+|/  
+* 495b1de MP-1: mi nombre en el estado de cuenta
+* 18576f0 MP-0: la cuenta bancaria
