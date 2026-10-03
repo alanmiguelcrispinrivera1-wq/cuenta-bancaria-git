@@ -17,5 +17,6 @@ public class App {
             System.out.printf("  %-10s %10s%n", m.tipo(), m.monto());
         }
         System.out.println("  Saldo:     " + cuenta.getSaldo());
+        System.out.println("  Retiros:   " + cuenta.getRetiros());
     }
 }
